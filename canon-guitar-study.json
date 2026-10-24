@@ -1,0 +1,152 @@
+{
+  "adaptationBy" : "HansaiTech / Fret Garden",
+  "changes" : "旋律參考：Pachelbel, Canon in D／Mutopia 1700，Jim Paterson（2009），CC BY 3.0：https://creativecommons.org/licenses/by/3.0/ 。本 App 移為 C 調、降低八度並加入簡化吉他和聲；為旋律節選，並非完整卡農或原編制。",
+  "key" : "C 大調",
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "measures" : [
+    [
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          60,
+          48,
+          52
+        ]
+      },
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          59,
+          43,
+          47
+        ]
+      }
+    ],
+    [
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          57,
+          45,
+          52
+        ]
+      },
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          55,
+          40,
+          47
+        ]
+      }
+    ],
+    [
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          53,
+          41,
+          48
+        ]
+      },
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          52,
+          48
+        ]
+      }
+    ],
+    [
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          53,
+          41,
+          48
+        ]
+      },
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          57,
+          43,
+          47
+        ]
+      }
+    ],
+    [
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          52,
+          48
+        ]
+      },
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          43
+        ]
+      }
+    ],
+    [
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          48
+        ]
+      },
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          52,
+          40,
+          47
+        ]
+      }
+    ],
+    [
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          57,
+          41,
+          48
+        ]
+      },
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          60,
+          48,
+          52
+        ]
+      }
+    ],
+    [
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          57,
+          41,
+          48
+        ]
+      },
+      {
+        "beats" : 2,
+        "midiPitches" : [
+          59,
+          43,
+          47
+        ]
+      }
+    ]
+  ],
+  "meter" : "4/4",
+  "originalComposer" : "Johann Pachelbel",
+  "source" : "https://www.mutopiaproject.org/ftp/PachelbelJ/CanonInD/CanonInD.ly",
+  "sourceContributor" : "Jim Paterson (2009), Mutopia 1700",
+  "tempo" : 76,
+  "title" : "Canon in D — Fret Garden guitar theme study"
+}
